@@ -1,7 +1,3 @@
-Here's a README file template for your repository [Data_Preprocessing](https://github.com/Md-Emon-Hasan/Data_Preprocessing/tree/master):
-
----
-
 # Data Preprocessing
 
 Welcome to the **Data Preprocessing** repository! This repository contains tutorials and examples on data preprocessing techniques using Python. It covers various methods to clean, transform, and prepare data for machine learning and data analysis tasks.
